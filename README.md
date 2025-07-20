@@ -23,9 +23,22 @@ A full-stack academic management system designed for schools and universities, o
 ---
 
 ### 📸 Screenshots
-<!-- Add image links like this -->
-![Dashboard Screenshot](dashboard.png)
-![Chatbot Screenshot](chatbot.png)
+
+![Login Panel](login_panel.jpg)  
+*User login interface*
+
+![Dashboard](dashboard.jpg)  
+*Real-time academic dashboard*
+
+![Chatbot](chatbot.jpg)  
+*AI-powered chatbot interface*
+
+![Staff Panel](staff_panel.jpg)  
+*Role-based staff access*
+
+![Student Page](student_page.jpg)  
+*Student information and attendance view*
+
 
 ---
 
