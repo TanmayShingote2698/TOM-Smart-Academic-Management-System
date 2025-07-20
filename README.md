@@ -24,7 +24,8 @@ A full-stack academic management system designed for schools and universities, o
 
 ### 📸 Screenshots
 <!-- Add image links like this -->
-![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot](TOM-Smart-Academic-Management-System
+/dashboard.png)
 ![Chatbot Screenshot](assets/chatbot.png)
 
 ---
