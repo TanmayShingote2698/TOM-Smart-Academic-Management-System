@@ -15,7 +15,7 @@ A full-stack academic management system designed for schools and universities, o
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Frontend:** HTML, CSS, Bootstrap
 - **Backend:** Python, Django
 - **Database:** MySQL
 - **Other:** AI Chatbot (Dialogflow or custom), Chart.js
